@@ -1,0 +1,11 @@
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{以及mengchaoheng\blx@tocontentsinit {0}\cite {_mengChaoHeng}}}{I}{section*.2}%
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{本模版更新了双盲评审选项，符合2022年最新的格式要求，将公式字体变更为Times New Roman等，具体细节见正文。}}{I}{section*.3}%
+\contentsline {replaced}{Replaced: \truncate {\Changestruncatewidth }{最新的zotero已支持软件内部PDF阅读。}}{1}{section*.6}%
+\contentsline {replaced}{Replaced: \truncate {\Changestruncatewidth }{VS Code}}{1}{section*.7}%
+\contentsline {replaced}{Replaced: \truncate {\Changestruncatewidth }{VS Code}}{1}{section*.8}%
+\contentsline {deleted}{Deleted: \truncate {\Changestruncatewidth }{编译时可以使用该软件，也可以运行文件目录的all.bat。TeXstudio的设置见第二章。}}{1}{section*.9}%
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{本文总体结构以及前三章均继承了前辈们的框架与内容，本人所做修改均标注为蓝色，第四章为本人撰写，故未作颜色标记。}}{1}{section*.10}%
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{第四章，本人对前辈们的模版的修改之处，包括：双盲评审、图、公式、参考文献、标题等。}}{1}{section*.11}%
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{、mengchaoheng}}{2}{section*.12}%
+\contentsline {replaced}{Replaced: \truncate {\Changestruncatewidth }{封面内容可根据双盲评审论文模版.doc与doctor\_cover.doc另存为review\_cover.pdf或thesis\_cover.pdf，本模版会自动将其并入编译后的PDF文件。}}{4}{section*.14}%
+\contentsline {added}{Added: \truncate {\Changestruncatewidth }{表格的中英文题注，可以使用TableBicaption命令，与图片的用法一致}}{8}{section*.18}%
