@@ -386,7 +386,7 @@
           \ifreview
             \includepdf[pages=-]{review_cover.pdf} %双盲送审版
           \else
-            \includepdf[pages=-]{thesis_cover.pdf} %最终版
+            \includepdf[pages=-]{doctor_cover.pdf} %最终版
           \fi
 \else
 %%buildin coverpage
