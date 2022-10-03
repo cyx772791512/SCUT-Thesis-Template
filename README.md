@@ -22,10 +22,13 @@
 ### 最终提交版
 增加了答辩决议页。
 ### 具体信息及使用说明请参考mainManuscript.pdf
-## 版本说明
+## 使用说明
+### texlive及主要宏包版本
 笔者使用的texlive及主要宏包版本如下：
 |内容|版本|
 |:---:|:---:|
 |texlive|2022|
 |siunitx|62048|
 |biblatex-gb7714-2015|62704|
+### 编译顺序
+编译顺序建议为xelatex->biber->xelatex->xelatex
