@@ -32,3 +32,4 @@
 |biblatex-gb7714-2015|62704|
 ### 编译顺序
 编译顺序建议为xelatex->biber->xelatex->xelatex
+### 使用过程中出现问题请提交issues，笔者得空时尽量解决
